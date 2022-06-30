@@ -9,6 +9,7 @@ prior contributions.
 
 ## Projects
 
+- [Demo](https://github.com/go-micro/demo)
 - [Dashboard](https://github.com/go-micro/dashboard)
 - [Examples](https://github.com/go-micro/examples)
 - [Plugins](https://github.com/go-micro/plugins)
