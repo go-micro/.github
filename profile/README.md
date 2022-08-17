@@ -1,11 +1,11 @@
 # Go Micro
-The community home of [Go Micro](https://go-micro.dev)
+
+The [Go Micro](https://go-micro.dev) toolkit
 
 ## Overview
 
-Go Micro is a framework for distributed systems development. This is the home of the Go Micro community and related projects. 
-We expect the community to grow independent of any single company and long term maintainers will be added based on their 
-prior contributions.
+Go Micro is a framework for distributed systems development. This org is the home of the Go Micro toolkit and related projects. 
+We expect the toolkit to grow independent of any one company. Long term maintainers will be added based on prior contributions.
 
 ## Projects
 
