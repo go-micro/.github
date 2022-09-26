@@ -1,30 +1,33 @@
 # Go Micro
-
-The [Go Micro](https://go-micro.dev) toolkit
+The community home of [Go Micro](https://github.com/go-micro/go-micro)
 
 ## Overview
 
-Go Micro is a framework for distributed systems development. This org is the home of the Go Micro toolkit and related projects. 
-We expect the toolkit to grow independent of any one company. Long term maintainers will be added based on prior contributions.
+Go Micro is a framework for distributed systems development. This is the home of the Go Micro community and related projects. 
+We expect the community to grow independent of any single company and long term maintainers will be added based on their 
+prior contributions.
 
 ## Projects
-
-- [CLI](https://github.com/go-micro/cli)
-- [Demo](https://github.com/go-micro/demo)
-- [Dashboard](https://github.com/go-micro/dashboard)
-- [Examples](https://github.com/go-micro/examples)
+- [Framework](https://github.com/go-micro/go-micro)
 - [Plugins](https://github.com/go-micro/plugins)
-- [Generator](https://github.com/go-micro/generator)
+- [CLI](https://github.com/go-micro/cli)
+- [Dashboard](https://github.com/go-micro/dashboard)
+- [Demo](https://github.com/go-micro/demo)
+- [Examples](https://github.com/go-micro/examples)
 
 ## Community
 
 - [Discord](https://discord.gg/qV3HvnEJfB)
-- [Slack](https://join.slack.com/t/go-micro/shared_invite/zt-175aaev1d-iHExPTlfxvfkOeeKLIYEYw)
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=5Gmrfv9i)
 
 ## Maintainers
 
+Go micro a community driven project, and contributions are very welcome. We are also always looking for new maintainers.
+
+Do you have an idea about how to improve any of the go-micro projects? Please open an issue, or create a PR!
+
 See [MAINTAINERS](MAINTAINERS) for the list of current maintainers
+
+Full credits for the original creation of the go-micro framework go to [@asim](https://github.com/asim)
 
 ## License
 
