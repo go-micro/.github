@@ -12,6 +12,7 @@ prior contributions.
 - [Plugins](https://github.com/go-micro/plugins)
 - [CLI](https://github.com/go-micro/cli)
 - [Dashboard](https://github.com/go-micro/dashboard)
+- [Generator](https://github.com/go-micro/generator)
 - [Demo](https://github.com/go-micro/demo)
 - [Examples](https://github.com/go-micro/examples)
 
