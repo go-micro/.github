@@ -1,6 +1,8 @@
 # Go Micro
 The community home of [Go Micro](https://github.com/go-micro/go-micro)
 
+We are working on go-micro v5 and would love to hear what you'd like to see in it, leave your thoughts in this [form](https://forms.gle/41gEWAcSgnf88GKt7)
+
 ## Overview
 
 Go Micro is a framework for distributed systems development. This is the home of the Go Micro community and related projects. 
