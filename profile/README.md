@@ -1,5 +1,5 @@
 # Go Micro
-The community home of [Go Micro](https://github.com/go-micro/go-micro)
+Welcome to the [Go Micro](https://github.com/go-micro/go-micro) project.
 
 🆘 We are working on go-micro v5 and would love to hear what you'd like to see in it, leave your thoughts in this [form](https://forms.gle/41gEWAcSgnf88GKt7)
 
