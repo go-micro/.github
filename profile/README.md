@@ -12,11 +12,12 @@ prior contributions.
 ## Projects
 - [Framework](https://github.com/go-micro/go-micro) - The core Go framework for development
 - [Plugins](https://github.com/go-micro/plugins) - Implementations for redis, kafka, etcd, gRPC..
-- [CLI](https://github.com/go-micro/cli) - Command line interface
-- [Dashboard](https://github.com/go-micro/dashboard) - Browser based access for Go Micro services
 - [Generator](https://github.com/go-micro/generator) - Protobuf code generation to use with protoc
-- [Demo](https://github.com/go-micro/demo) - A full feaured demo app
 - [Examples](https://github.com/go-micro/examples) - Individual examples for feaures
+- [Dashboard](https://github.com/go-micro/dashboard) - Browser based access for Go Micro services
+- [Demo](https://github.com/go-micro/demo) - A full feaured demo app
+- [CLI](https://github.com/go-micro/cli) - Command line interface
+
 
 ## Community
 
