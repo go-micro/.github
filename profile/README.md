@@ -21,7 +21,7 @@ prior contributions.
 
 ## Community
 
-- [Discord](https://discord.gg/qV3HvnEJfB)
+- [Discord](https://discord.gg/qV3HvnEJfB) - Join us, chat and ask questions!
 
 ## Roadmap
 
