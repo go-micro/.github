@@ -25,7 +25,7 @@ prior contributions.
 
 ## Maintainers
 
-Go micro a community driven project, and contributions are very welcome. We are also always looking for new maintainers.
+Go micro is a community driven project, and contributions are very welcome. We are always looking for new maintainers.
 
 See [MAINTAINERS](MAINTAINERS) for the list of current maintainers
 
