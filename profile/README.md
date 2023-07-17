@@ -31,8 +31,6 @@ Do you have an idea about how to improve any of the go-micro projects? Please op
 
 See [MAINTAINERS](MAINTAINERS) for the list of current maintainers
 
-Full credit to [@asim](https://github.com/asim) for the original framework and tools
-
 ## License
 
 All projects are under the Apache 2.0 license
