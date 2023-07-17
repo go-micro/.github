@@ -28,7 +28,3 @@ prior contributions.
 Go micro is a community driven project, and contributions are very welcome. We are always looking for new maintainers.
 
 See [MAINTAINERS](MAINTAINERS) for the list of current maintainers
-
-## License
-
-All projects are under the Apache 2.0 license
