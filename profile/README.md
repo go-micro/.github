@@ -23,10 +23,6 @@ prior contributions.
 
 - [Discord](https://discord.gg/qV3HvnEJfB) - Join us, chat and ask questions!
 
-## Roadmap
-
-See [the public roadmap](https://github.com/orgs/go-micro/projects/2) to understand more about the high level goals.
-
 ## Maintainers
 
 Go micro a community driven project, and contributions are very welcome. We are also always looking for new maintainers.
