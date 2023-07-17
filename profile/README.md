@@ -27,8 +27,6 @@ prior contributions.
 
 Go micro a community driven project, and contributions are very welcome. We are also always looking for new maintainers.
 
-Do you have an idea about how to improve any of the go-micro projects? Please open an issue, or create a PR!
-
 See [MAINTAINERS](MAINTAINERS) for the list of current maintainers
 
 ## License
