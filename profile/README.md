@@ -1,7 +1,7 @@
 # Go Micro
 Welcome to the [Go Micro](https://github.com/go-micro/go-micro) community 👋
 
-🆘 V5 will be a fork known as [Orb](https://github.com/go-orb/go-orb)
+Note: V5 will be a fork known as [Orb](https://github.com/go-orb/go-orb)
 
 ## Overview
 
