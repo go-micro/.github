@@ -7,6 +7,10 @@ Note: V5 will be a fork known as [Orb](https://github.com/go-orb/go-orb)
 
 Go Micro is a framework for distributed systems development. This is the home of the Go Micro community and related projects. 
 
+## Community
+
+- [Discord](https://discord.gg/qV3HvnEJfB) - Join us, chat and ask questions!
+  
 ## Projects
 - [Framework](https://github.com/go-micro/go-micro) - The core Go framework for development
 - [Generator](https://github.com/go-micro/generator) - Protobuf code generation to use with protoc
@@ -15,11 +19,6 @@ Go Micro is a framework for distributed systems development. This is the home of
 - [Plugins](https://github.com/go-micro/plugins) - Implementations for redis, kafka, etcd, gRPC..
 - [Demo](https://github.com/go-micro/demo) - A full feaured demo app
 - [CLI](https://github.com/go-micro/cli) - Command line interface
-
-
-## Community
-
-- [Discord](https://discord.gg/qV3HvnEJfB) - Join us, chat and ask questions!
 
 ## Maintainers
 
