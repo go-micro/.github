@@ -1,5 +1,5 @@
 # Go Micro
-Welcome to the [Go Micro](https://github.com/go-micro/go-micro) community
+Welcome to the [Go Micro](https://github.com/go-micro/go-micro) project
 
 Note: V5 will be a fork known as [Orb](https://github.com/go-orb/go-orb)
 
