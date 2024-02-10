@@ -1,8 +1,6 @@
 # Go Micro
 Welcome to the [Go Micro](https://github.com/go-micro/go-micro) project
 
-Note: V5 will be a fork known as [Orb](https://github.com/go-orb/go-orb)
-
 ## Overview
 
 Go Micro is a framework for distributed systems development. This is the home of the Go Micro community and related projects. 
